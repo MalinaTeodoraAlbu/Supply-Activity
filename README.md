@@ -1,1 +1,1 @@
-![image](https://github.com/MalinaTeodoraAlbu/Supply-Activity/assets/107119549/a2cf99af-30ff-44fb-af02-777baecaeb1d)
+I have developed a supply management application that provides users with the ability to place orders directly with contracted suppliers. Through this application, users can view and track their placed orders, access order details, and also add new contracts with existing suppliers within the platform. This efficient solution has been implemented using C# technology, ensuring a fast and intuitive experience.
